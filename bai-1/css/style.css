@@ -1,0 +1,47 @@
+li{
+	color: red;
+	background-color: rgb(255, 0, 0,0.5);
+	
+	\
+	color: #DCC1C1
+}
+/* @font-face {
+	font-family: 'thu-phap';
+	src: url('../UTM THUPHAP THIEN AN.TTF');
+}
+ */
+h1 {
+	font-family: 'thu-phap';
+	font-size: 100%;
+	letter-spacing: 10px;
+	word-spacing: 20px;
+	font-style: italic;
+}
+img {
+	vertical-align: middle;
+	width: 300px;
+}
+P {
+	text-align: center;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: greenyellow
+}
+a:hover {
+	color: springgreen;
+}
+a:focus {
+	color: dodgerblue;
+}
+a:active {
+	color: orange;
+}
+body {
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,107,121,1) 64%, rgba(0,212,255,1) 100%);
+}
+
+
